@@ -1,0 +1,2 @@
+# gitrepo
+Iskolai gyakorló repository
